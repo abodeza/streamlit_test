@@ -8,3 +8,5 @@ st.write(inp)
 if st.button("Click me"):
     print("Button clicked!")
     st.write(inp)
+
+# There is an issue with the code above. The button is not working.
